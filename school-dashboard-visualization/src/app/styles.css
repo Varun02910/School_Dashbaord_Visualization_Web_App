@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#map-container {
+    position: relative;
+    display: inline-block;
+}
+
+#reset-button {
+    display: none;
+    position: absolute;
+    top: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 10px 20px;
+    background: red;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+svg {
+    width: 80vw;
+    height: auto;
+    max-width: 800px;
+}
+
+path {
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+path:hover {
+    fill: orange;
+}
