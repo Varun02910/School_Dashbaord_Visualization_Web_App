@@ -1,72 +1,29 @@
-$color0: #efeefb;
-$color1: #cfcbf3;
-$color2: #9d98e8;
-$color3: #6860dc;
-$color4: #533fac;
-$color5: #342875;
+#map-svg{
+    // background-color: burlywood;
+    padding: 5px;
+    // width: 55vw;
 
-
-/* CSS copied for map */
-
-#map-title {
-    font-size: 25px;
-    fill: black;
+    #india-map-svg{
+        position: relative;
+        top: 5px;
+    }
 }
 
-.land {
-    fill: #f9f8f7;
-    stroke: black;
-    stroke-width: 1;
-    stroke-miterlimit: 1;
+#tooltip-box{
+    fill: #FFAA01dd !important;
+    border-radius: 10%;
 }
 
-
-.colour5 {
-    fill: $color5;
-}
-
-.colour4 {
-    fill: $color4;
-}
-
-.colour3 {
-    fill: $color3;
-}
-
-.colour2 {
-    fill: $color2;
-}
-
-.colour1 {
-    fill: $color1;
-}
-
-.colour0 {
-    fill: $color0;
-}
-
-path:hover {
-    opacity: 0.5;
-}
-
-.tooltip1 {
-    font-size: 16px;
+#tooltip-title{
+    font-size: 2rem;
     font-weight: bold;
 }
 
-.tooltip_bg {
-    fill: white;
-    stroke: black;
-    stroke-width: 1;
-    opacity: 0.85;
+#tooltip-value{
+    font-size: 1.5rem;
+    font-weight: 500;
 }
 
-.label {
-    font-size: 1.5vw;
-}
-
-#border {
-    fill: none;
-    stroke: black;
-    stroke-width: 1;
+text{
+    font-size: 1.2rem !important;
 }

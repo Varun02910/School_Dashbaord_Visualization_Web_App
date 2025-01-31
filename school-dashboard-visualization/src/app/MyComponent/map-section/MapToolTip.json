@@ -1,0 +1,182 @@
+[
+  {
+    "id": "IN-AN",
+    "state": "Andaman and Nicobar Islands",
+    "grossEnrollement": 73861
+  },
+  {
+    "id": "IN-AP",
+    "state": "Andhra Pradesh",
+    "grossEnrollement": 8244647
+  },
+  {
+    "id": "IN-AR",
+    "state": "Arunachal Pradesh",
+    "grossEnrollement": 354382
+  },
+  {
+    "id": "IN-AS",
+    "state": "Assam",
+    "grossEnrollement": 7544960
+  },
+  {
+    "id": "IN-BR",
+    "state": "Bihar",
+    "grossEnrollement": 27472692
+  },
+  {
+    "id": "IN-CH",
+    "state": "Chandigarh",
+    "grossEnrollement": 268627
+  },
+  {
+    "id": "IN-CT",
+    "state": "Chhattisgarh",
+    "grossEnrollement": 5992197
+  },
+  {
+    "id": "IN-DD",
+    "state": "Daman and Diu",
+    "grossEnrollement": 133358
+  },
+  {
+    "id": "IN-DL",
+    "state": "Delhi",
+    "grossEnrollement": 4572107
+  },
+  {
+    "id": "IN-GA",
+    "state": "Goa",
+    "grossEnrollement": 304982
+  },
+  {
+    "id": "IN-GJ",
+    "state": "Gujarat",
+    "grossEnrollement": 11542276
+  },
+  {
+    "id": "IN-HR",
+    "state": "Haryana",
+    "grossEnrollement": 6035679
+  },
+  {
+    "id": "IN-HP",
+    "state": "Himachal Pradesh",
+    "grossEnrollement": 1437022
+  },
+  {
+    "id": "IN-JK",
+    "state": "Jammu and Kashmir",
+    "grossEnrollement": 2718644
+  },
+  {
+    "id": "IN-JH",
+    "state": "Jharkhand",
+    "grossEnrollement": 7970750
+  },
+  {
+    "id": "IN-KA",
+    "state": "Karnataka",
+    "grossEnrollement": 12092381
+  },
+  {
+    "id": "IN-KL",
+    "state": "Kerala",
+    "grossEnrollement": 6423120
+  },
+  {
+    "id": "IN-LK",
+    "state": "Ladakh",
+    "grossEnrollement": 59788
+  },
+  {
+    "id": "IN-LD",
+    "state": "Lakshadweep",
+    "grossEnrollement": 13586
+  },
+  {
+    "id": "IN-MP",
+    "state": "Madhya Pradesh",
+    "grossEnrollement": 16169265
+  },
+  {
+    "id": "IN-MH",
+    "state": "Maharashtra",
+    "grossEnrollement": 22586695
+  },
+  {
+    "id": "IN-MN",
+    "state": "Manipur",
+    "grossEnrollement": 693194
+  },
+  {
+    "id": "IN-ML",
+    "state": "Meghalaya",
+    "grossEnrollement": 1169720
+  },
+  {
+    "id": "IN-MZ",
+    "state": "Mizoram",
+    "grossEnrollement": 309904
+  },
+  {
+    "id": "IN-NL",
+    "state": "Nagaland",
+    "grossEnrollement": 443796
+  },
+  {
+    "id": "IN-OR",
+    "state": "Odisha",
+    "grossEnrollement": 7576893
+  },
+  {
+    "id": "IN-PY",
+    "state": "Puducherry",
+    "grossEnrollement": 255546
+  },
+  {
+    "id": "IN-PB",
+    "state": "Punjab",
+    "grossEnrollement": 6147500
+  },
+  {
+    "id": "IN-RJ",
+    "state": "Rajasthan",
+    "grossEnrollement": 17667510
+  },
+  {
+    "id": "IN-SK",
+    "state": "Sikkim",
+    "grossEnrollement": 135963
+  },
+  {
+    "id": "IN-TN",
+    "state": "Tamil Nadu",
+    "grossEnrollement": 12830951
+  },
+  {
+    "id": "IN-TG",
+    "state": "Telangana",
+    "grossEnrollement": 6915241
+  },
+  {
+    "id": "IN-TR",
+    "state": "Tripura",
+    "grossEnrollement": 713862
+  },
+  {
+    "id": "IN-UP",
+    "state": "Uttar Pradesh",
+    "grossEnrollement": 47181438
+  },
+  {
+    "id": "IN-UT",
+    "state": "Uttarakhand",
+    "grossEnrollement": 2449926
+  },
+  {
+    "id": "IN-WB",
+    "state": "West Bengal",
+    "grossEnrollement": 18733367
+  }
+]
