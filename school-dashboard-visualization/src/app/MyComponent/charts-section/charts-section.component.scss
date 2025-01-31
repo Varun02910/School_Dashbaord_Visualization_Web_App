@@ -1,0 +1,14 @@
+#cards-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(175px, 1fr));
+    gap: 16px;
+    width: 50vw;
+}
+
+.card {
+    background: #082c7c;
+    border-radius: 30px;
+    color: #fff;
+    padding: 15px;
+    min-width: max-content;
+}

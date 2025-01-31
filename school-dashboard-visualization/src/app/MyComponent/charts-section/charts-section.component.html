@@ -1,1 +1,8 @@
-<p>charts-section works!</p>
+<h2>Dashboard (powered by SamarthX)</h2>
+<h5>Showing results for 2023-24</h5>
+<div id="cards-container">
+    <app-info-card class="card" *ngFor="let data of cardsDataList" [data]="data"></app-info-card>
+</div>
+<app-bar-chart></app-bar-chart>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  
