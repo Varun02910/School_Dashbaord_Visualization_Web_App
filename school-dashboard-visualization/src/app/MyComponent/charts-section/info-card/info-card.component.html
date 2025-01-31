@@ -1,4 +1,6 @@
-<div class="card">
-    <h3 class="card-title">{{title()}}</h3>
-    <app-card-details *ngFor="let data of dataList" [data] = "data"></app-card-details>
-</div>
+
+<h5 class="card-title">{{data()?.main_title}}</h5>
+<h3 class="card-main-value">{{data()?.main_value}}</h3>
+<app-card-details *ngFor="let data of data()?.subDataList" [data] = "data"></app-card-details>
+<img class="card-img" src="{{data()?.cardImgPath}}">
+
