@@ -18,9 +18,9 @@ export class BarChartComponent {
     this.chart = new Chart("myChart", {
       type: 'bar', // Chart type (bar, line, pie, etc.)
       data: {
-        labels: ['Jan', 'Feb', 'Mar', 'Apr', 'May'],
+        labels: ['Madhya Pradesh', 'Rajasthan', 'Bihar', 'Maharashtra', 'Uttar Pradesh'],
         datasets: [{
-          label: 'Sales',
+          label: 'Enrollment',
           data: [10, 20, 30, 40, 50], // Your data values
           backgroundColor: 'rgba(75, 192, 192, 0.2)',
           borderColor: 'rgba(75, 192, 192, 1)',

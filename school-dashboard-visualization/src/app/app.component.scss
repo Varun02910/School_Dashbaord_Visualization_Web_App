@@ -1,3 +1,12 @@
 #dashboard {
     display: flex;
 }
+
+app-map-section{
+    width: 55vw;
+}
+
+app-charts-section{
+    width: 45vw;
+    padding: 4px;
+}

@@ -1,0 +1,29 @@
+#map-svg{
+    // background-color: burlywood;
+    padding: 5px;
+    // width: 55vw;
+
+    #india-map-svg{
+        position: relative;
+        top: 5px;
+    }
+}
+
+#tooltip-box{
+    fill: #FFAA01dd !important;
+    border-radius: 10%;
+}
+
+#tooltip-title{
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+#tooltip-value{
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+text{
+    font-size: 1.2rem !important;
+}
