@@ -17,7 +17,7 @@ export class ChartsSectionComponent{
 
     data1 = new CardData("Urban", "20");
     data2 = new CardData("Rural", "50");
-    dataList: CardData[] = [new CardData("Apple", "20"), this.data2];
+    dataList: CardData[] = [this.data1, this.data2];
     cardsDataList = [
       new CardsData("No. of schools", "255087", this.dataList, ""), 
       new CardsData("No. of teachers", "1538479", this.dataList, ""), 
